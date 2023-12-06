@@ -1,3 +1,10 @@
+// Raphael Braga Ribeiro: 202202830364
+// Levi Ágape Silva Santos: 202202443671
+// Marcos Antonio Freitas Souza: 202208699464
+// Gustavo Gama da Silva Pinho Oliveira: 201951157771
+// Felipe Magalhaes Sales: 202208863621
+// Caike dos Santos Rocha: 202051349956
+
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.List;
